@@ -1,0 +1,19 @@
+{
+  "menu_title": "SYSTEM SELECT",
+  "systems": [
+    {
+      "name": "SYSTEM 1",
+      "status": "ONLINE",
+      "lib_name": "libMod1.so",
+      "download_url": "https://raw.githubusercontent.com/Npc02-1/cheats/main/libMod1.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "SYSTEM 2",
+      "status": "OFFLINE",
+      "lib_name": "libMod2.so",
+      "download_url": "https://raw.githubusercontent.com/Npc02-1/cheats/main/libMod2.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    }
+  ]
+}
